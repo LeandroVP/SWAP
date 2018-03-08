@@ -14,6 +14,7 @@
 
 ## [Ejercicios](./Ejercicios)
 
+<<<<<<< HEAD
 1. [Alta disponibilidad y escalabilidad.](./Ejercicios/Tema2)
 
 2. [La red de una granja web.](./Ejercicios/Tema3)
@@ -27,6 +28,21 @@
 6. [Almacenamiento de datos](./Ejercicios/Tema7)
 
 7. [Requisitos hardware y software en servidores web](./Ejercicios/Tema8)
+=======
+1. [Alta disponibilidad y escalabilidad.](./Ejercicios/Tema 2)
+
+2. [La red de una granja web.](./Ejercicios/Tema 3)
+
+3. [Balanceo de carga.](./Ejercicios/Tema 4)
+
+4. [Medir prestaciones](./Ejercicios/Tema 5)
+
+5. [Asegurar el sistema web](./Ejercicios/Tema 6)
+
+6. [Almacenamiento de datos](./Ejercicios/Tema 7)
+
+7. [Requisitos hardware y software en servidores web](./Ejercicios/Tema 8)
+>>>>>>> master
 
 
 ## [Trabajo grupal: Detección de intrusos](./Trabajo)
