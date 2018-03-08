@@ -15,6 +15,6 @@ comprobaremos que Apache está funcionando.
 
 ## Proceso
 *descripción del proceso*
-![imagen](./Imagenes/STEP0.png)
-![imagen](./Imagenes/STEP1.png)
-![imagen](./Imagenes/STEP2.png)
+![imagen](./Imagenes/STEP0.PNG)
+![imagen](./Imagenes/STEP1.PNG)
+![imagen](./Imagenes/STEP2.PNG)
