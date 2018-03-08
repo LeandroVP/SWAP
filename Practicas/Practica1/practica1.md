@@ -15,6 +15,24 @@ comprobaremos que Apache está funcionando.
 
 ## Proceso
 *descripción del proceso*
-![imagen](./Imagenes/STEP0.PNG)
-![imagen](./Imagenes/STEP1.PNG)
-![imagen](./Imagenes/STEP2.PNG)
+
+Accedemos al archivo situado en la ruta:
+
+![ruta archivo](./Imagenes/STEP0.PNG)
+
+Lo modificamos de forma que quede como en la siguiente imagen:
+
+![modificacion archivo](./Imagenes/STEP1.PNG)
+*la dirección ip debe ser distinta para cada máquina*
+
+Reiniciamos los servicios con el siguiente comando para aplicar los cambios:
+![reinicio servicios](./Imagenes/STEP2.PNG)
+
+Comprobamos que desde el host podemos acceder al archivo de una de las máquinas:
+![Acceso desde host](./Imagenes/STEP3.PNG)
+
+Comprobamos que podemos acceder al archivo hola.html mediante curl desde una máquina a otra:
+![Acceso curl](./Imagenes/STEP4.PNG)
+
+Por último, vemos que podemos acceder mediante ssh a una máquina desde la otra:
+![Acceso ssh](./Imagenes/STEP5.PNG)
