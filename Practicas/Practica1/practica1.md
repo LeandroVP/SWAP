@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Práctica 1: Preparación de las herramientas
 ## Breve descripción de la práctica
+=======
+#Práctica 1: Preparación de las herramientas
+##Breve descripción de la práctica
+>>>>>>> master
 
 Tras instalar las dos máquinas Linux con el Ubuntu Server, en ambas vamos a realizar
 una instalación completa de servidor web: Apache + PHP + MySQL.
