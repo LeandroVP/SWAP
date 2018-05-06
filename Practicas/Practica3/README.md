@@ -51,7 +51,7 @@ Teóricamente, si accediéramos a una dirección donde estuviera instalado nginx
 
 ![Server2](./Images/nginx_maquina_2.PNG)
 
-Viendo las imágenes podemos comprobar que, efectivamente, para una misma ip (192.168.56.44) nos remite a veces a la máquina 1 o otras a la máquina 2.
+Viendo las imágenes podemos comprobar que, efectivamente, para una misma ip (192.168.56.44) nos remite a veces a la máquina 1 y otras a la máquina 2.
 
 ### 5. Someter a una alta carga el servidor balanceado
 Para medir el rendimiento de un servidor necesitaremos una herramienta que ejecutar en los clientes para crear una carga HTTP específica (habitualmente alta). En este caso usaremos Apache Benchmark.
