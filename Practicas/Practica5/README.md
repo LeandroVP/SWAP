@@ -100,7 +100,8 @@ Por último, arrancamos el esclavo y ya está todo listo para que los demonios d
 ```
 mysql> START SLAVE;
 ```
-Ahora, si queremos asegurarnos de que todo funciona perfectamente y que el esclavo no tiene ningún problema para replicar la información, nos vamos al esclavo y con la siguiente orden:
+Ahora, si queremos asegurarnos de que todo funciona perfectamente y que el esclavo no tiene ningún problema para replicar la información, nos vamos al esclavo y con la siguiente orden revisamos si el valor de la variable “Seconds_Behind_Master” es distinto de “null”. En
+ese caso, todo estará funcionando perfectamente:
 ```
 mysql> SHOW SLAVE STATUS\G
 ```
