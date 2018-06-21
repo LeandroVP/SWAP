@@ -12,22 +12,6 @@
 
 5. [Gestión de la base de datos del sistema web.](./Practicas/Practica5)
 
-## [Ejercicios](./Ejercicios)
-
-1. [Alta disponibilidad y escalabilidad.](./Ejercicios/Tema2)
-
-2. [La red de una granja web.](./Ejercicios/Tema3)
-
-3. [Balanceo de carga.](./Ejercicios/Tema4)
-
-4. [Medir prestaciones](./Ejercicios/Tema5)
-
-5. [Asegurar el sistema web](./Ejercicios/Tema6)
-
-6. [Almacenamiento de datos](./Ejercicios/Tema7)
-
-7. [Requisitos hardware y software en servidores web](./Ejercicios/Tema8)
-
 
 ## [Trabajo grupal: Detección de intrusos](./Trabajo)
 
