@@ -10,8 +10,8 @@ comprobaremos que Apache está funcionando.
 
 ## Objetivos
 
-1. Acceder por ssh de una máquina a otra
-2. Acceder mediante la herramienta curl desde una máquina a la otra
+1. Acceder por ssh de una máquina a otra.
+2. Acceder mediante la herramienta curl desde una máquina a la otra.
 
 ## Proceso
 
